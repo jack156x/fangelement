@@ -24,8 +24,6 @@
 	<img src="https://github.com/LeaderAndMaster/vue2-element/blob/master/static/img/demo2.jpeg" width="40%">
 </div>
 
-<div align=center><img src="https://github.com/LeaderAndMaster/vue2-element/blob/master/static/img/code.png" width="40%"></div>
-
 ## 安装步骤
 
 ``` bash
