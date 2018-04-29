@@ -1,10 +1,10 @@
 # 饿了么点餐系统
 
-> vue2.0、vuex、vue-router、axios、webpack、eslint、better-scroll
+> vue2.0、vuex、vue-router、axios、webpack、better-scroll
 
 ## 演示
 
-<div align=center><a href="http://vuejssellapp.t.imooc.io/" target=_blank>在线演示戳我</a></div>
+<div align=center>在线演示</div>
 
 <div align=center>
 <img src="https://static.oschina.net/uploads/space/2017/0207/180535_4FSI_2493500.png" width="20%">
